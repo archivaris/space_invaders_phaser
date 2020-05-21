@@ -1,6 +1,6 @@
 class SceneMainMenu extends Phaser.Scene {
     constructor() {
-        super({ key: "SceneMainMenu" });
+        super({key: "SceneMainMenu"});
     }
 
     preload() {
@@ -34,21 +34,21 @@ class SceneMainMenu extends Phaser.Scene {
         );
         this.btnPlay.setInteractive();
 
-        this.btnPlay.on("pointerover", function() {
+        this.btnPlay.on("pointerover", function () {
             this.sfx.btn.play();
             this.btnPlay.setTexture("sprBtnPlayHover");
         }, this);
 
-        this.btnPlay.on("pointerout", function() {
+        this.btnPlay.on("pointerout", function () {
             this.setTexture("sprBtnPlay");
         });
 
-        this.btnPlay.on("pointerdown", function() {
+        this.btnPlay.on("pointerdown", function () {
             this.sfx.btn.play();
             this.scene.start("SceneMain");
         }, this);
 
-        this.btnPlay.on("pointerup", function() {
+        this.btnPlay.on("pointerup", function () {
             this.setTexture("sprBtnPlay");
         });
 

@@ -1,4 +1,3 @@
-
 class Entity extends Phaser.GameObjects.Sprite {
     constructor(scene, x, y, key) {
         super(scene, x, y, key);
@@ -22,7 +21,7 @@ class PlayerLaser extends Entity {
 
 class EnemyLaser extends Entity {
     constructor(scene, x, y, key) {
-        super(scene, x,y, "sprLaserEnemy");
+        super(scene, x, y, "sprLaserEnemy");
     }
 }
 
@@ -48,7 +47,7 @@ class Explosion extends Entity {
         this.play("sprExplosion");
         this.setOrigin(0);
         this.setScale(2);
-        this.on("animationcomplete", function() {
+        this.on("animationcomplete", function () {
             if (this) {
                 this.destroy();
             }

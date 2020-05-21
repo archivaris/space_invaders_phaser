@@ -1,6 +1,6 @@
 class SceneMain extends Phaser.Scene {
     constructor() {
-        super({ key: "SceneMain" });
+        super({key: "SceneMain"});
     }
 
     init(data) {
@@ -8,15 +8,15 @@ class SceneMain extends Phaser.Scene {
     }
 
     preload() {
-        this.load.image("sprPlayer", "Content/sprPlayer.png");
-        this.load.spritesheet("sprEnemy0", "Content/sprEnemy0.png", {
+        this.load.image("sprPlayer", "Content/player.png");
+        this.load.spritesheet("sprEnemy0", "Content/enemy.png", {
             frameWidth: 8,
             frameHeight: 8
         });
-        this.load.image("sprShieldTile", "Content/sprShieldTile.png");
-        this.load.image("sprLaserEnemy", "Content/sprLaserEnemy.png");
-        this.load.image("sprLaserPlayer", "Content/sprLaserPlayer.png");
-        this.load.spritesheet("sprExplosion", "Content/sprExplosion.png", {
+        this.load.image("sprShieldTile", "Content/shield.png");
+        this.load.image("sprLaserEnemy", "Content/enemy_laser.png");
+        this.load.image("sprLaserPlayer", "Content/player_laser.png");
+        this.load.spritesheet("sprExplosion", "Content/explosion.png", {
             frameWidth: 8,
             frameHeight: 8
         });
@@ -47,7 +47,7 @@ class SceneMain extends Phaser.Scene {
         this.anims.create({
             key: "sprEnemy0",
             frames: this.anims.generateFrameNumbers("sprEnemy0"),
-            frameRate: 10,
+            frameRate: 3,
             repeat: -1
         });
 
@@ -113,14 +113,14 @@ class SceneMain extends Phaser.Scene {
         this.keyD = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.D);
         this.keySpace = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
 
-        this.playerShootDelay = 30;
+        this.playerShootDelay = 0;
         this.playerShootTick = 0;
 
         this.shieldPattern = [
-            [0, 1, 1, 1, 1, 1, 0],
+            [1, 0, 0, 1, 0, 0, 1],
+            [1, 0, 1, 1, 1, 0, 1],
             [1, 1, 1, 1, 1, 1, 1],
-            [1, 1, 1, 1, 1, 1, 1],
-            [1, 1, 0, 0, 0, 1, 1],
+            [1, 1, 1, 0, 1, 1, 1],
             [1, 1, 0, 0, 0, 1, 1],
             [1, 1, 0, 0, 0, 1, 1]
         ];
@@ -157,7 +157,7 @@ class SceneMain extends Phaser.Scene {
         this.updateLasers();
         this.createLivesIcons();
 
-        this.physics.add.overlap(this.playerLasers, this.enemies, function(laser, enemy) {
+        this.physics.add.overlap(this.playerLasers, this.enemies, function (laser, enemy) {
             if (laser) {
                 laser.destroy();
             }
@@ -169,7 +169,7 @@ class SceneMain extends Phaser.Scene {
             }
         }, null, this);
 
-        this.physics.add.overlap(this.playerLasers, this.enemyLasers, function(playerLaser, enemyLaser) {
+        this.physics.add.overlap(this.playerLasers, this.enemyLasers, function (playerLaser, enemyLaser) {
 
             if (playerLaser) {
                 playerLaser.destroy();
@@ -181,7 +181,7 @@ class SceneMain extends Phaser.Scene {
 
         }, null, this);
 
-        this.physics.add.overlap(this.playerLasers, this.shieldTiles, function(laser, tile) {
+        this.physics.add.overlap(this.playerLasers, this.shieldTiles, function (laser, tile) {
             if (laser) {
                 laser.destroy();
             }
@@ -189,7 +189,7 @@ class SceneMain extends Phaser.Scene {
             this.destroyShieldTile(tile);
         }, null, this);
 
-        this.physics.add.overlap(this.enemyLasers, this.shieldTiles, function(laser, tile) {
+        this.physics.add.overlap(this.enemyLasers, this.shieldTiles, function (laser, tile) {
             if (laser) {
                 laser.destroy();
             }
@@ -197,7 +197,7 @@ class SceneMain extends Phaser.Scene {
             this.destroyShieldTile(tile);
         }, null, this);
 
-        this.physics.add.overlap(this.player, this.enemies, function(player, enemy) {
+        this.physics.add.overlap(this.player, this.enemies, function (player, enemy) {
             if (player) {
                 player.destroy();
 
@@ -205,7 +205,7 @@ class SceneMain extends Phaser.Scene {
             }
         }, null, this);
 
-        this.physics.add.overlap(this.player, this.enemyLasers, function(player, laser) {
+        this.physics.add.overlap(this.player, this.enemyLasers, function (player, laser) {
             if (player) {
                 player.destroy();
 
@@ -227,8 +227,7 @@ class SceneMain extends Phaser.Scene {
 
         if (localStorage.getItem("highScore") == null) {
             localStorage.setItem("highScore", 0);
-        }
-        else {
+        } else {
             this.passingData.highScore = localStorage.getItem("highScore");
             this.textHighScore.setText(this.passingData.highScore);
         }
@@ -248,22 +247,20 @@ class SceneMain extends Phaser.Scene {
     updateEnemiesMovement() {
         this.enemyMoveTimer = this.time.addEvent({
             delay: 1024,
-            callback: function() {
+            callback: function () {
                 if (this.enemyMoveDir == "RIGHT") {
                     this.enemyRect.x += 6;
 
                     if (this.enemyRect.x + this.enemyRect.width > this.game.config.width - 20) {
                         this.setEnemyDirection("DOWN");
                     }
-                }
-                else if (this.enemyMoveDir == "LEFT") {
+                } else if (this.enemyMoveDir == "LEFT") {
                     this.enemyRect.x -= 6;
 
                     if (this.enemyRect.x < 20) {
                         this.setEnemyDirection("DOWN");
                     }
-                }
-                else if (this.enemyMoveDir == "DOWN") {
+                } else if (this.enemyMoveDir == "DOWN") {
                     this.enemyMoveTimer.delay -= 100;
                     this.moveEnemiesDown();
                 }
@@ -273,8 +270,7 @@ class SceneMain extends Phaser.Scene {
 
                     if (this.enemyMoveDir == "RIGHT") {
                         enemy.x += 6;
-                    }
-                    else if (this.enemyMoveDir == "LEFT") {
+                    } else if (this.enemyMoveDir == "LEFT") {
                         enemy.x -= 6;
                     }
                 }
@@ -287,7 +283,7 @@ class SceneMain extends Phaser.Scene {
     updateEnemiesShooting() {
         this.time.addEvent({
             delay: 500,
-            callback: function() {
+            callback: function () {
                 for (var i = 0; i < this.enemies.getChildren().length; i++) {
                     var enemy = this.enemies.getChildren()[i];
 
@@ -312,8 +308,7 @@ class SceneMain extends Phaser.Scene {
 
             if (this.lastEnemyMoveDir == "LEFT") {
                 this.setEnemyDirection("RIGHT");
-            }
-            else if (this.lastEnemyMoveDir == "RIGHT") {
+            } else if (this.lastEnemyMoveDir == "RIGHT") {
                 this.setEnemyDirection("LEFT");
             }
         }
@@ -322,7 +317,7 @@ class SceneMain extends Phaser.Scene {
     updatePlayerMovement() {
         this.time.addEvent({
             delay: 60,
-            callback: function() {
+            callback: function () {
 
                 if (this.keyA.isDown) {
                     this.player.x -= 8;
@@ -341,12 +336,11 @@ class SceneMain extends Phaser.Scene {
     updatePlayerShooting() {
         this.time.addEvent({
             delay: 15,
-            callback: function() {
+            callback: function () {
                 if (this.keySpace.isDown && this.player.active) {
                     if (this.playerShootTick < this.playerShootDelay) {
                         this.playerShootTick++;
-                    }
-                    else {
+                    } else {
                         var laser = new PlayerLaser(this, this.player.x, this.player.y);
                         this.playerLasers.add(laser);
 
@@ -364,7 +358,7 @@ class SceneMain extends Phaser.Scene {
     updateLasers() {
         this.time.addEvent({
             delay: 30,
-            callback: function() {
+            callback: function () {
                 for (var i = 0; i < this.playerLasers.getChildren().length; i++) {
                     var laser = this.playerLasers.getChildren()[i];
 
@@ -385,7 +379,7 @@ class SceneMain extends Phaser.Scene {
 
         this.time.addEvent({
             delay: 128,
-            callback: function() {
+            callback: function () {
                 for (var i = 0; i < this.enemyLasers.getChildren().length; i++) {
                     var laser = this.enemyLasers.getChildren()[i];
 
@@ -416,7 +410,7 @@ class SceneMain extends Phaser.Scene {
         if (tile) {
             this.createExplosion(tile.x, tile.y);
 
-            for (var i= 0; i < Phaser.Math.Between(10, 20); i++) {
+            for (var i = 0; i < Phaser.Math.Between(10, 20); i++) {
                 var shieldHole = this.add.graphics({
                     fillStyle: {
                         color: 0x000000
@@ -433,8 +427,7 @@ class SceneMain extends Phaser.Scene {
                         size,
                         size
                     );
-                }
-                else {
+                } else {
                     var rect = new Phaser.Geom.Rectangle(
                         tile.x + (Phaser.Math.Between(-4, tile.displayWidth + 4)),
                         tile.y + (Phaser.Math.Between(-4, tile.displayHeight + 4))
@@ -494,21 +487,19 @@ class SceneMain extends Phaser.Scene {
 
         this.time.addEvent({
             delay: 3000,
-            callback: function() {
+            callback: function () {
                 if (this.passingData.lives > 0) {
                     this.passingData.lives--;
 
                     this.scene.start("SceneMain", this.passingData);
-                }
-                else {
-                    this.scene.start("SceneMain", { });
+                } else {
+                    this.scene.start("SceneMainMenu", {});
                 }
             },
             callbackScope: this,
             loop: false
         });
     }
-
 
 
 }

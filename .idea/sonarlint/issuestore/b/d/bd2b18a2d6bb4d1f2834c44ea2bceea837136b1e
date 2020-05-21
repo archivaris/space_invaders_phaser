@@ -1,387 +1,387 @@
 
-Njavascript:S1117I"-'key' is already declared in the upper scope.(ÇÜ¿øÿÿÿÿ
-Rjavascript:S1117²"0'extend' is already declared in the upper scope.(ù¶¾¡üÿÿÿÿ
-bjavascript:S905É
-"FExpected an assignment or function call and instead saw an expression.(ûÓ·Å
-bjavascript:S905Ó
-"FExpected an assignment or function call and instead saw an expression.(Äµ’ 
-bjavascript:S905õ"FExpected an assignment or function call and instead saw an expression.(¹·ü†
-=javascript:S878õ"!Unexpected use of comma operator.(¹·ü†
-=javascript:S878ç"!Unexpected use of comma operator.(õŞ€¢
-Bjavascript:S878è"!Unexpected use of comma operator.(½»ğúÿÿÿÿ
-Bjavascript:S878é"!Unexpected use of comma operator.(åÎ¯²úÿÿÿÿ
-=javascript:S878ê"!Unexpected use of comma operator.(„ôË
-=javascript:S878ë"!Unexpected use of comma operator.(øÅä×
-Bjavascript:S878ì"!Unexpected use of comma operator.(ü†¢úÿÿÿÿ
-]javascript:S2589"@This always evaluates to truthy. Consider refactoring this code.(Ç¿½ú
-bjavascript:S905Ş"FExpected an assignment or function call and instead saw an expression.(ûÓ·Å
-bjavascript:S905è"FExpected an assignment or function call and instead saw an expression.(Äµ’ 
-gjavascript:S905İ!"FExpected an assignment or function call and instead saw an expression.(÷ª¤Ôşÿÿÿÿ
-gjavascript:S905è!"FExpected an assignment or function call and instead saw an expression.(ÑÃıÿÿÿÿ
-Cjavascript:S1110º""!Remove these useless parentheses.(ô‚³‰ÿÿÿÿÿ
-Rjavascript:S1481ê>"5Remove the declaration of the unused 'args' variable.(¿´¤ˆ
-Hjavascript:S1117·B"+'i' is already declared in the upper scope.(íÁÙá
-Pjavascript:S1117¨S".'body' is already declared in the upper scope.(ö»ëæÿÿÿÿÿ
-hjavascript:S905„"FExpected an assignment or function call and instead saw an expression.(½ÄïĞûÿÿÿÿ
-cjavascript:S905§„"FExpected an assignment or function call and instead saw an expression.(¡ö¤
-hjavascript:S905°„"FExpected an assignment or function call and instead saw an expression.(ÌÁ‰˜ûÿÿÿÿ
-cjavascript:S905¹„"FExpected an assignment or function call and instead saw an expression.(¹Äø‚
-Vjavascript:S1854Â‰"9Remove this useless assignment to variable "determinant".(®¬â~
-hjavascript:S905ç“"FExpected an assignment or function call and instead saw an expression.(§æ‚êûÿÿÿÿ
-hjavascript:S905ğ“"FExpected an assignment or function call and instead saw an expression.(½æùûÿÿÿÿ
-hjavascript:S905ù“"FExpected an assignment or function call and instead saw an expression.(¹Ñ³şÿÿÿÿ
-cjavascript:S905‚”"FExpected an assignment or function call and instead saw an expression.(ğŠ€Ì
-cjavascript:S905Ÿ”"FExpected an assignment or function call and instead saw an expression.(«µü
-cjavascript:S905¨”"FExpected an assignment or function call and instead saw an expression.(¤‡˜º
-cjavascript:S905²”"FExpected an assignment or function call and instead saw an expression.(Ø™‰†
-bjavascript:S905¼”"FExpected an assignment or function call and instead saw an expression.(À¼w
-cjavascript:S905Å”"FExpected an assignment or function call and instead saw an expression.(Çİ°‡
-hjavascript:S905Î”"FExpected an assignment or function call and instead saw an expression.(Ù‰×ııÿÿÿÿ
-Ujavascript:S1481é·"2Remove the declaration of the unused 'j' variable.(é¶±øÿÿÿÿ
-Ujavascript:S1481ê·"2Remove the declaration of the unused 'k' variable.(´á¾ãüÿÿÿÿ
-Ujavascript:S1481ì·"2Remove the declaration of the unused 'z' variable.(®ÍÃ´øÿÿÿÿ
-Pjavascript:S1117¡¸"2'vertices' is already declared in the upper scope.(õº¸ü
-^javascript:S2589Êà"@This always evaluates to truthy. Consider refactoring this code.(Ç¿½ú
-8javascript:S108Íà"Empty block statement.(·©µãÿÿÿÿÿ
-Sjavascript:S1117Ñú"0'object' is already declared in the upper scope.(ğ®˜ºıÿÿÿÿ
-Rjavascript:S1854ú"/Remove this useless assignment to variable "v".(“ûÁ¬şÿÿÿÿ
-bjavascript:S2589Ş™"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
-3javascript:S108ß™"Empty block statement.(Äé†ˆ
-bjavascript:S2589á™"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
-3javascript:S108â™"Empty block statement.(Äé†ˆ
-cjavascript:S905‹œ"FExpected an assignment or function call and instead saw an expression.(Ü¥Ç 
-hjavascript:S905”œ"FExpected an assignment or function call and instead saw an expression.(à×³®ûÿÿÿÿ
-bjavascript:S2589–œ"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
-3javascript:S108—œ"Empty block statement.(Äé†ˆ
-hjavascript:S905²œ"FExpected an assignment or function call and instead saw an expression.(´‹Œ­úÿÿÿÿ
-cjavascript:S905»œ"FExpected an assignment or function call and instead saw an expression.(Ú§™ú
-cjavascript:S905Èœ"FExpected an assignment or function call and instead saw an expression.(ÿĞ©
-hjavascript:S905Ôœ"FExpected an assignment or function call and instead saw an expression.(×Ğêøşÿÿÿÿ
-cjavascript:S905ßœ"FExpected an assignment or function call and instead saw an expression.(ñ„¬–
-bjavascript:S905ëœ"FExpected an assignment or function call and instead saw an expression.(¼–·X
-hjavascript:S905öœ"FExpected an assignment or function call and instead saw an expression.(ìêÑ³úÿÿÿÿ
-hjavascript:S905"FExpected an assignment or function call and instead saw an expression.( æô‚øÿÿÿÿ
-cjavascript:S905Œ"FExpected an assignment or function call and instead saw an expression.(±é¤…
-cjavascript:S905›"FExpected an assignment or function call and instead saw an expression.(Å•Ê‘
-cjavascript:S905¨"FExpected an assignment or function call and instead saw an expression.(û™Æı
-cjavascript:S905µ"FExpected an assignment or function call and instead saw an expression.(ûÓ·Å
-hjavascript:S905Â"FExpected an assignment or function call and instead saw an expression.(ß¹Óùÿÿÿÿ
-cjavascript:S905Ñ"FExpected an assignment or function call and instead saw an expression.(ô¾¬ó
-hjavascript:S905ß"FExpected an assignment or function call and instead saw an expression.(ÿÎìùÿÿÿÿ
-cjavascript:S905ï"FExpected an assignment or function call and instead saw an expression.(Äµ’ 
-cjavascript:S905¨¸"FExpected an assignment or function call and instead saw an expression.(ó½òä
-hjavascript:S905ÖÔ"FExpected an assignment or function call and instead saw an expression.(’Ó¤ıÿÿÿÿ
-bjavascript:S905áÔ"FExpected an assignment or function call and instead saw an expression.(´ÒV
-hjavascript:S905ğÔ"FExpected an assignment or function call and instead saw an expression.(Š¬ÿşÿÿÿÿ
-hjavascript:S905ÿÔ"FExpected an assignment or function call and instead saw an expression.(™‰äĞüÿÿÿÿ
-Wjavascript:S1854¦Ú"4Remove this useless assignment to variable "colors".(×´à—øÿÿÿÿ
-Rjavascript:S1854§Ú"4Remove this useless assignment to variable "alphas".(Å³ï•
-Ojavascript:S1117Ğé"2'renderer' is already declared in the upper scope.(Ä‰v
-Zjavascript:S1854ìò"7Remove this useless assignment to variable "loadEvent".(éÃå şÿÿÿÿ
-hjavascript:S905Ş‚"FExpected an assignment or function call and instead saw an expression.(Ó¡ª±şÿÿÿÿ
-Kjavascript:S1117½›"-'key' is already declared in the upper scope.(ÚÆæÄ
-Pjavascript:S1117À›"-'key' is already declared in the upper scope.(”åäšûÿÿÿÿ
-Pjavascript:S1117â›"-'key' is already declared in the upper scope.(Ì«Èóüÿÿÿÿ
-Pjavascript:S1117é›"-'key' is already declared in the upper scope.(Ì«Èóüÿÿÿÿ
-Pjavascript:S1117ğ›"-'key' is already declared in the upper scope.(Ì«Èóüÿÿÿÿ
-Pjavascript:S1117÷›"-'key' is already declared in the upper scope.(Ì«Èóüÿÿÿÿ
-hjavascript:S905† "FExpected an assignment or function call and instead saw an expression.(˜¤Ì—ûÿÿÿÿ
-Fjavascript:S1940¯"(Use the opposite operator (!==) instead.(€„‰”
-]javascript:S1854¦²":Remove this useless assignment to variable "vertexOffset".(äÏ°Ûşÿÿÿÿ
-]javascript:S1854÷²":Remove this useless assignment to variable "vertexOffset".(¯ÃÃœûÿÿÿÿ
-Ojavascript:S1117ğÑ"2'renderer' is already declared in the upper scope.(Ä‰v
-Rjavascript:S1117òÑ"/'width' is already declared in the upper scope.(¯˜ßÁøÿÿÿÿ
-Sjavascript:S1117óÑ"0'height' is already declared in the upper scope.(‚¡‰¼ûÿÿÿÿ
-Jjavascript:S1117ôÑ"-'pot' is already declared in the upper scope.(Éí’.
-Ojavascript:S1117õÑ",'gl' is already declared in the upper scope.(–”·Èüÿÿÿÿ
-Ljavascript:S1117öÑ".'wrap' is already declared in the upper scope.(İ‹ä«
-Sjavascript:S1117÷Ñ"0'filter' is already declared in the upper scope.(ßØ¹Âøÿÿÿÿ
-Njavascript:S1117ï"+'r' is already declared in the upper scope.(†Ì°Ïÿÿÿÿÿ
-Njavascript:S1117ï"+'g' is already declared in the upper scope.(†Ì°Ïÿÿÿÿÿ
-Njavascript:S1117ï"+'b' is already declared in the upper scope.(†Ì°Ïÿÿÿÿÿ
-^javascript:S2589»™"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-bjavascript:S2589Ì™"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
-3javascript:S108Í™"Empty block statement.(Äé†ˆ
-bjavascript:S2589Ï™"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
-3javascript:S108Ğ™"Empty block statement.(Äé†ˆ
-hjavascript:S905ª¸"FExpected an assignment or function call and instead saw an expression.(ÌÁ‰˜ûÿÿÿÿ
-hjavascript:S905³¸"FExpected an assignment or function call and instead saw an expression.(´‹Œ­úÿÿÿÿ
-cjavascript:S905™Á"FExpected an assignment or function call and instead saw an expression.(¦ñÑÔ
-cjavascript:S905®Ä"FExpected an assignment or function call and instead saw an expression.(¦ñÑÔ
-bjavascript:S905È"FExpected an assignment or function call and instead saw an expression.(¾ğía
-hjavascript:S905šÈ"FExpected an assignment or function call and instead saw an expression.(ØÄÛşÿÿÿÿ
-hjavascript:S905¥È"FExpected an assignment or function call and instead saw an expression.(¢ºæ†øÿÿÿÿ
-cjavascript:S905’Ò"FExpected an assignment or function call and instead saw an expression.(¦ñÑÔ
-hjavascript:S905‚İ"FExpected an assignment or function call and instead saw an expression.(´‹Œ­úÿÿÿÿ
-hjavascript:S905³Ş"FExpected an assignment or function call and instead saw an expression.(ÅïÃûÿÿÿÿ
-Ojavascript:S1854æô"1Remove this useless assignment to variable "key".(ÚáŸ¥
-Ojavascript:S1854†õ"1Remove this useless assignment to variable "key".(ÚáŸ¥
-cjavascript:S905Âü"FExpected an assignment or function call and instead saw an expression.(Ü¥Ç 
-cjavascript:S905Ìü"FExpected an assignment or function call and instead saw an expression.(ÿĞ©
-hjavascript:S905Öü"FExpected an assignment or function call and instead saw an expression.(×Ğêøşÿÿÿÿ
-bjavascript:S905àü"FExpected an assignment or function call and instead saw an expression.(¼–·X
-hjavascript:S905êü"FExpected an assignment or function call and instead saw an expression.( æô‚øÿÿÿÿ
-cjavascript:S905ôü"FExpected an assignment or function call and instead saw an expression.(±é¤…
-hjavascript:S905şü"FExpected an assignment or function call and instead saw an expression.(ß¹Óùÿÿÿÿ
-cjavascript:S905ˆı"FExpected an assignment or function call and instead saw an expression.(û™Æı
-cjavascript:S905’ı"FExpected an assignment or function call and instead saw an expression.(Å•Ê‘
-cjavascript:S905œı"FExpected an assignment or function call and instead saw an expression.(ô¾¬ó
-hjavascript:S905¦ı"FExpected an assignment or function call and instead saw an expression.(½ÄïĞûÿÿÿÿ
-cjavascript:S905°ı"FExpected an assignment or function call and instead saw an expression.(óÑôª
-hjavascript:S905ºı"FExpected an assignment or function call and instead saw an expression.(ü£ˆùÿÿÿÿ
-hjavascript:S905Äı"FExpected an assignment or function call and instead saw an expression.(ˆÉÀÇøÿÿÿÿ
-cjavascript:S905Îı"FExpected an assignment or function call and instead saw an expression.(ãÍƒ
-hjavascript:S905Øı"FExpected an assignment or function call and instead saw an expression.(Ä“Ôÿÿÿÿÿ
 cjavascript:S905âı"FExpected an assignment or function call and instead saw an expression.(¿Ûµ
-hjavascript:S905ìı"FExpected an assignment or function call and instead saw an expression.(¤äÊÜÿÿÿÿÿ
-cjavascript:S905öı"FExpected an assignment or function call and instead saw an expression.(ˆú€Ä
-hjavascript:S905€ş"FExpected an assignment or function call and instead saw an expression.(Ù‚¤üúÿÿÿÿ
-bjavascript:S2589‚ş"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
-3javascript:S108ƒş"Empty block statement.(Äé†ˆ
-hjavascript:S905ş"FExpected an assignment or function call and instead saw an expression.(ìêÑ³úÿÿÿÿ
-cjavascript:S905™ş"FExpected an assignment or function call and instead saw an expression.(ñ„¬–
-hjavascript:S905Ü‰"FExpected an assignment or function call and instead saw an expression.(“öºûûÿÿÿÿ
-Pjavascript:S1117ğ "-'key' is already declared in the upper scope.(¡ëÁÉøÿÿÿÿ
-Kjavascript:S1117ş "-'key' is already declared in the upper scope.(‘Æó
-Ijavascript:S1117Š£"+'i' is already declared in the upper scope.(‹£‘
-hjavascript:S905ê®"FExpected an assignment or function call and instead saw an expression.(¬¼ß±øÿÿÿÿ
-cjavascript:S905ÅÛ"FExpected an assignment or function call and instead saw an expression.(Ëü¦›
-hjavascript:S905ÏÛ"FExpected an assignment or function call and instead saw an expression.(ÿóôñúÿÿÿÿ
-sjavascript:S1871¬"PThis branch's code block is the same as the block for the branch on line 100367.(ÒÌâ–øÿÿÿÿ
-hjavascript:S905¾–"FExpected an assignment or function call and instead saw an expression.(…„ıÛÿÿÿÿÿ
-hjavascript:S905ƒ"FExpected an assignment or function call and instead saw an expression.(¯¶¸ûÿÿÿÿ
-hjavascript:S905™ƒ"FExpected an assignment or function call and instead saw an expression.(˜¤Ì—ûÿÿÿÿ
-hjavascript:S905¢ƒ"FExpected an assignment or function call and instead saw an expression.(ŸØ—àùÿÿÿÿ
-Mjavascript:S1117ñ‡"/'value' is already declared in the upper scope.(ªğšğ
-Pjavascript:S1117ô‡"-'toX' is already declared in the upper scope.(‹˜³›úÿÿÿÿ
-Kjavascript:S1117õ‡"-'toY' is already declared in the upper scope.(¤¨ñÆ
-Mjavascript:S1117™ˆ"/'value' is already declared in the upper scope.(ş­ĞÉ
-hjavascript:S905ƒŒ"FExpected an assignment or function call and instead saw an expression.(˜¤Ì—ûÿÿÿÿ
-hjavascript:S905§“"FExpected an assignment or function call and instead saw an expression.(ú¾šœÿÿÿÿÿ
-`javascript:S1117ÿ¯"='TextureTintPipeline' is already declared in the upper scope.(ßú¶¬ÿÿÿÿÿ
-`javascript:S1117Ü°"='TextureTintPipeline' is already declared in the upper scope.(ßú¶¬ÿÿÿÿÿ
-hjavascript:S905¬¼"FExpected an assignment or function call and instead saw an expression.(òÈ™óıÿÿÿÿ
-Fjavascript:S1940ùÁ"(Use the opposite operator (!==) instead.(€„‰”
-cjavascript:S2589Å"@This always evaluates to truthy. Consider refactoring this code.(™ü¶Ÿşÿÿÿÿ
-5javascript:S2814»Ê"'i' is already defined.(Ó­œ½
-Rjavascript:S1117ƒà"/'tween' is already declared in the upper scope.(–ãù¯üÿÿÿÿ
-cjavascript:S905†ˆ"FExpected an assignment or function call and instead saw an expression.(ñ¶Âå
-hjavascript:S905ˆ"FExpected an assignment or function call and instead saw an expression.(¯µ§Áıÿÿÿÿ
-cjavascript:S905ñŠ"FExpected an assignment or function call and instead saw an expression.(ñ¶Âå
-hjavascript:S905ûŠ"FExpected an assignment or function call and instead saw an expression.(¯µ§Áıÿÿÿÿ
-cjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(âÿ¿º
-cjavascript:S905Ë"FExpected an assignment or function call and instead saw an expression.(ñ¶Âå
-hjavascript:S905Õ"FExpected an assignment or function call and instead saw an expression.(¯µ§Áıÿÿÿÿ
-cjavascript:S905’™"FExpected an assignment or function call and instead saw an expression.(ñ¶Âå
-hjavascript:S905œ™"FExpected an assignment or function call and instead saw an expression.(¯µ§Áıÿÿÿÿ
-cjavascript:S905½›"FExpected an assignment or function call and instead saw an expression.(âÿ¿º
-cjavascript:S905ã›"FExpected an assignment or function call and instead saw an expression.(ñ¶Âå
-hjavascript:S905í›"FExpected an assignment or function call and instead saw an expression.(¯µ§Áıÿÿÿÿ
-Yjavascript:S3516—œ";Refactor this function to not always return the same value.(îà°ğ
-cjavascript:S905Û"FExpected an assignment or function call and instead saw an expression.(âÿ¿º
-cjavascript:S905ù"FExpected an assignment or function call and instead saw an expression.(ñ¶Âå
-hjavascript:S905ƒŸ"FExpected an assignment or function call and instead saw an expression.(¯µ§Áıÿÿÿÿ
-Xjavascript:S3516™Ÿ";Refactor this function to not always return the same value.(ÍØÿj
-cjavascript:S905™¡"FExpected an assignment or function call and instead saw an expression.(÷ëãÛ
-hjavascript:S905¥¡"FExpected an assignment or function call and instead saw an expression.(´”Äùÿÿÿÿ
-Njavascript:S1117¼¬"+'e' is already declared in the upper scope.(ùºŸ­şÿÿÿÿ
-Njavascript:S1117Õ¬"+'e' is already declared in the upper scope.(ùºŸ­şÿÿÿÿ
-?javascript:S1110ß¾"!Remove these useless parentheses.(ŞŞèİ
-^javascript:S2589ëÕ"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-bjavascript:S2589ğÕ"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
-ijavascript:S1481ñÕ"KRemove the declaration of the unused 'FacebookInstantGamesPlugin' variable.(•øÊÅ
-^javascript:S2589Ê×"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-bjavascript:S2589ç×"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
-3javascript:S108è×"Empty block statement.(Äé†ˆ
-Pjavascript:S1854®ç"3Remove this useless assignment to variable "ruler".(šøÎf
-bjavascript:S2589Šë"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
-3javascript:S108‹ë"Empty block statement.(Äé†ˆ
-bjavascript:S2589ë"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
-3javascript:S108ë"Empty block statement.(Äé†ˆ
-Vjavascript:S1854Üï"3Remove this useless assignment to variable "total".(§üÃÛøÿÿÿÿ
-^javascript:S2589 ø"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589©‹	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589®‹	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589ê	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589ï	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589¼”	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589Á”	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589Ñ–	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589Ö–	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589™—	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589—	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-Pjavascript:S1854 ˜	"3Remove this useless assignment to variable "scale".(÷Šê%
-^javascript:S2589½›	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589Â›	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589§œ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589¯œ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589¶Ÿ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589»Ÿ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589— 	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589œ 	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-cjavascript:S905ú¡	"FExpected an assignment or function call and instead saw an expression.(âÿ¿º
-^javascript:S2589à¥	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589å¥	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589°¨	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589µ¨	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589±«	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589¶«	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589Ê­	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589Ï­	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-hjavascript:S905˜¯	"FExpected an assignment or function call and instead saw an expression.(œÌ¾‚şÿÿÿÿ
-hjavascript:S905¢¯	"FExpected an assignment or function call and instead saw an expression.(İŞÚçÿÿÿÿÿ
-hjavascript:S905«¯	"FExpected an assignment or function call and instead saw an expression.(Â²êĞşÿÿÿÿ
+4javascript:S2814±Ğ"'k' is already defined.(£ºÖB
+bjavascript:S905àü"FExpected an assignment or function call and instead saw an expression.(¼–·X
 cjavascript:S905´¯	"FExpected an assignment or function call and instead saw an expression.(ıŞòà
-cjavascript:S905¾¯	"FExpected an assignment or function call and instead saw an expression.(²õô
-cjavascript:S905È¯	"FExpected an assignment or function call and instead saw an expression.(ÉŒ‚ß
-hjavascript:S905Ò¯	"FExpected an assignment or function call and instead saw an expression.(‚¡¶Ÿúÿÿÿÿ
-cjavascript:S905Ü¯	"FExpected an assignment or function call and instead saw an expression.(±¹™
-cjavascript:S905æ¯	"FExpected an assignment or function call and instead saw an expression.(äåàÛ
-hjavascript:S905ğ¯	"FExpected an assignment or function call and instead saw an expression.(¢âÛàıÿÿÿÿ
-cjavascript:S905ú¯	"FExpected an assignment or function call and instead saw an expression.(’”¥Í
-hjavascript:S905„°	"FExpected an assignment or function call and instead saw an expression.(ñâ™ùÿÿÿÿ
-cjavascript:S905°	"FExpected an assignment or function call and instead saw an expression.(¦ê¾Ä
-cjavascript:S905˜°	"FExpected an assignment or function call and instead saw an expression.(ì‰£
-hjavascript:S905¢°	"FExpected an assignment or function call and instead saw an expression.(ãøñãøÿÿÿÿ
-cjavascript:S905®°	"FExpected an assignment or function call and instead saw an expression.(ì™…€
-bjavascript:S905º°	"FExpected an assignment or function call and instead saw an expression.(Øáø
-hjavascript:S905Å°	"FExpected an assignment or function call and instead saw an expression.(êËõÛúÿÿÿÿ
-cjavascript:S905Ï°	"FExpected an assignment or function call and instead saw an expression.(ÌÓ›³
-hjavascript:S905Ù°	"FExpected an assignment or function call and instead saw an expression.(»ÑÅëÿÿÿÿÿ
-hjavascript:S905ã°	"FExpected an assignment or function call and instead saw an expression.(´ä…¯ÿÿÿÿÿ
-bjavascript:S905í°	"FExpected an assignment or function call and instead saw an expression.(öô?
-cjavascript:S905÷°	"FExpected an assignment or function call and instead saw an expression.(ˆì‚
-Vjavascript:S1854Á²	"8Remove this useless assignment to variable "fontFamily".(¹Áøš
-Ljavascript:S1854Ó²	"/Remove this useless assignment to variable "i".(’¨â
-^javascript:S2589ô·	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589ù·	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589ò¸	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589÷¸	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589Ù¹	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589Ş¹	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589’»	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589—»	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589×¼	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589Ü¼	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589™¾	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589¾	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589Î¿	"@This always evaluates to truthy. Consider refactoring this code.(éó¦â
-cjavascript:S2589Õ¿	"@This always evaluates to truthy. Consider refactoring this code.(‚Â©ûÿÿÿÿ
-^javascript:S2589‰Á	"@This always evaluates to truthy. Consider refactoring this code.(éó¦â
-cjavascript:S2589Á	"@This always evaluates to truthy. Consider refactoring this code.(‚Â©ûÿÿÿÿ
-^javascript:S2589×Á	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589ÜÁ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589ùÃ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589şÃ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589»Æ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589ÀÆ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589ğÇ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589õÇ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589²É	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589·É	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589÷Ê	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589üÊ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589¹Ì	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589¾Ì	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589ªÒ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589Ôß	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589Ùß	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589†á	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589‹á	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589ªâ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+Pjavascript:S1117ğ›"-'key' is already declared in the upper scope.(Ì«Èóüÿÿÿÿ
+Bjavascript:S878è"!Unexpected use of comma operator.(½»ğúÿÿÿÿ
 ^javascript:S2589Øâ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589‰ã	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-cjavascript:S905Ÿ‹
-"FExpected an assignment or function call and instead saw an expression.(¦ñÑÔ
-hjavascript:S905½‹
-"FExpected an assignment or function call and instead saw an expression.(ğ³Ñ–ıÿÿÿÿ
-cjavascript:S905Ç‹
-"FExpected an assignment or function call and instead saw an expression.(êÊö‘
-hjavascript:S905Ñ‹
-"FExpected an assignment or function call and instead saw an expression.(’…“ºÿÿÿÿÿ
-cjavascript:S905Û‹
-"FExpected an assignment or function call and instead saw an expression.(¢€Ä
-cjavascript:S905å‹
-"FExpected an assignment or function call and instead saw an expression.(Î¤í
-cjavascript:S905Ú‘
-"FExpected an assignment or function call and instead saw an expression.(ûÓ·Å
-cjavascript:S905ã‘
-"FExpected an assignment or function call and instead saw an expression.(û™Æı
-sjavascript:S1871ˆ™
-"PThis branch's code block is the same as the block for the branch on line 167043.(ÒÌâ–øÿÿÿÿ
 Jjavascript:S1515±
 "'Define this function outside of a loop.(âÌŒÆşÿÿÿÿ
-Jjavascript:S1515–±
-"'Define this function outside of a loop.(úœÒéøÿÿÿÿ
+cjavascript:S905§„"FExpected an assignment or function call and instead saw an expression.(¡ö¤
+Ujavascript:S1481ì·"2Remove the declaration of the unused 'z' variable.(®ÍÃ´øÿÿÿÿ
+Ijavascript:S1117öÉ"+'x' is already declared in the upper scope.(ú‡‡è
+3javascript:S108øì"Empty block statement.(Äé†ˆ
+Ijavascript:S1117Š£"+'i' is already declared in the upper scope.(‹£‘
+Sjavascript:S1117Š"0'module' is already declared in the upper scope.(È‰É÷şÿÿÿÿ
+sjavascript:S1871¬"PThis branch's code block is the same as the block for the branch on line 100367.(ÒÌâ–øÿÿÿÿ
+cjavascript:S905œı"FExpected an assignment or function call and instead saw an expression.(ô¾¬ó
 ^javascript:S1854üÄ
 ";Remove this useless assignment to variable "captureSource".(÷¤£Ÿúÿÿÿÿ
->javascript:S1439¾Ö
-"Remove this "resize" label.(¼ÉŞéÿÿÿÿÿ
+^javascript:S2589§œ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+cjavascript:S905Ü¯	"FExpected an assignment or function call and instead saw an expression.(±¹™
+hjavascript:S905Ñ‹
+"FExpected an assignment or function call and instead saw an expression.(’…“ºÿÿÿÿÿ
+^javascript:S2589¼”	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+]javascript:S1854¦²":Remove this useless assignment to variable "vertexOffset".(äÏ°Ûşÿÿÿÿ
+^javascript:S2589ğÇ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+cjavascript:S905µ"FExpected an assignment or function call and instead saw an expression.(ûÓ·Å
+cjavascript:S905™Á"FExpected an assignment or function call and instead saw an expression.(¦ñÑÔ
+_javascript:S2259ôë"ATypeError can be thrown as "end" might be null or undefined here.(Ûñ‰
+Rjavascript:S1117²"0'extend' is already declared in the upper scope.(ù¶¾¡üÿÿÿÿ
+cjavascript:S905’™"FExpected an assignment or function call and instead saw an expression.(ñ¶Âå
+^javascript:S2589’»	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+bjavascript:S905õ"FExpected an assignment or function call and instead saw an expression.(¹·ü†
+hjavascript:S905ÏÛ"FExpected an assignment or function call and instead saw an expression.(ÿóôñúÿÿÿÿ
+Rjavascript:S1854§Ú"4Remove this useless assignment to variable "alphas".(Å³ï•
+Zjavascript:S1534ŠÀ"7Rename or remove duplicate property name 'compareMinY'.(€š¹®ûÿÿÿÿ
+^javascript:S2589ÜÁ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+bjavascript:S905É
+"FExpected an assignment or function call and instead saw an expression.(ûÓ·Å
+hjavascript:S905ş"FExpected an assignment or function call and instead saw an expression.(ìêÑ³úÿÿÿÿ
+hjavascript:S905ƒŒ"FExpected an assignment or function call and instead saw an expression.(˜¤Ì—ûÿÿÿÿ
+bjavascript:S2259á“"DTypeError can be thrown as "normal" might be null or undefined here.(¤°Œ
+3javascript:S108‹ë"Empty block statement.(Äé†ˆ
+^javascript:S2589à¥	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+hjavascript:S905¢–"FExpected an assignment or function call and instead saw an expression.(¯µ§Áıÿÿÿÿ
+Pjavascript:S1117¡¸"2'vertices' is already declared in the upper scope.(õº¸ü
+cjavascript:S905ßœ"FExpected an assignment or function call and instead saw an expression.(ñ„¬–
+cjavascript:S2589Å"@This always evaluates to truthy. Consider refactoring this code.(™ü¶Ÿşÿÿÿÿ
+hjavascript:S905ç“"FExpected an assignment or function call and instead saw an expression.(§æ‚êûÿÿÿÿ
+hjavascript:S905°„"FExpected an assignment or function call and instead saw an expression.(ÌÁ‰˜ûÿÿÿÿ
+?javascript:S1110ß¾"!Remove these useless parentheses.(ŞŞèİ
+Pjavascript:S1854®ç"3Remove this useless assignment to variable "ruler".(šøÎf
+cjavascript:S905ğƒ"FExpected an assignment or function call and instead saw an expression.(Öğ¢×
+hjavascript:S905ß"FExpected an assignment or function call and instead saw an expression.(ÿÎìùÿÿÿÿ
+^javascript:S2589õÇ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+^javascript:S2589²É	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+Jjavascript:S1515–±
+"'Define this function outside of a loop.(úœÒéøÿÿÿÿ
+djavascript:S2259õğ"FTypeError can be thrown as "newScene" might be null or undefined here.(¨±¯ú
+^javascript:S2589Â›	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+^javascript:S2589µ¨	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+^javascript:S2589—»	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+Ujavascript:S1481ê·"2Remove the declaration of the unused 'k' variable.(´á¾ãüÿÿÿÿ
+Njavascript:S1117¼¬"+'e' is already declared in the upper scope.(ùºŸ­şÿÿÿÿ
+hjavascript:S905½‹
+"FExpected an assignment or function call and instead saw an expression.(ğ³Ñ–ıÿÿÿÿ
+hjavascript:S905şü"FExpected an assignment or function call and instead saw an expression.(ß¹Óùÿÿÿÿ
+cjavascript:S905æƒ"FExpected an assignment or function call and instead saw an expression.(Å•Ê‘
+Ojavascript:S1854†õ"1Remove this useless assignment to variable "key".(ÚáŸ¥
+hjavascript:S905¢°	"FExpected an assignment or function call and instead saw an expression.(ãøñãøÿÿÿÿ
+cjavascript:S905ã‘
+"FExpected an assignment or function call and instead saw an expression.(û™Æı
+cjavascript:S905¨¸"FExpected an assignment or function call and instead saw an expression.(ó½òä
+cjavascript:S905ÅÛ"FExpected an assignment or function call and instead saw an expression.(Ëü¦›
+]javascript:S2589"@This always evaluates to truthy. Consider refactoring this code.(Ç¿½ú
+bjavascript:S2589ğÕ"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
+hjavascript:S905ª¸"FExpected an assignment or function call and instead saw an expression.(ÌÁ‰˜ûÿÿÿÿ
+^javascript:S2589‰Á	"@This always evaluates to truthy. Consider refactoring this code.(éó¦â
+Bjavascript:S878é"!Unexpected use of comma operator.(åÎ¯²úÿÿÿÿ
+cjavascript:S905ôü"FExpected an assignment or function call and instead saw an expression.(±é¤…
+cjavascript:S905Ç‹
+"FExpected an assignment or function call and instead saw an expression.(êÊö‘
+=javascript:S878õ"!Unexpected use of comma operator.(¹·ü†
+hjavascript:S905Øƒ"FExpected an assignment or function call and instead saw an expression.(ƒ¸æ¿øÿÿÿÿ
+^javascript:S2589°¨	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+Sjavascript:S1117Ñú"0'object' is already declared in the upper scope.(ğ®˜ºıÿÿÿÿ
+ƒjavascript:S4165Î˜"eReview this useless assignment: "flipped" already holds the assigned value along all execution paths.(ëßÙ
+Pjavascript:S1117é›"-'key' is already declared in the upper scope.(Ì«Èóüÿÿÿÿ
+cjavascript:S905Ú‘
+"FExpected an assignment or function call and instead saw an expression.(ûÓ·Å
+5javascript:S2814¬Ğ"'k' is already defined.(ñå®à
+bjavascript:S905È"FExpected an assignment or function call and instead saw an expression.(¾ğía
+cjavascript:S905ñŠ"FExpected an assignment or function call and instead saw an expression.(ñ¶Âå
+^javascript:S2589ê	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+cjavascript:S905È¯	"FExpected an assignment or function call and instead saw an expression.(ÉŒ‚ß
+^javascript:S2589¾Ì	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+bjavascript:S905º°	"FExpected an assignment or function call and instead saw an expression.(Øáø
+hjavascript:S905¬¼"FExpected an assignment or function call and instead saw an expression.(òÈ™óıÿÿÿÿ
+^javascript:S2589Ï­	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+hjavascript:S905¢¯	"FExpected an assignment or function call and instead saw an expression.(İŞÚçÿÿÿÿÿ
+3javascript:S108ß™"Empty block statement.(Äé†ˆ
 hjavascript:S905îê
 "FExpected an assignment or function call and instead saw an expression.(ƒ¸æ¿øÿÿÿÿ
-cjavascript:S905÷ê
-"FExpected an assignment or function call and instead saw an expression.(Å•Ê‘
-Ujavascript:S1481ì"7Remove the declaration of the unused 'Bounds' variable.(¹•ê²
-Rjavascript:S1854ì"4Remove this useless assignment to variable "Bounds".(¹•ê²
-Rjavascript:S1117—‚"/'point' is already declared in the upper scope.(ÄÙ¬ûÿÿÿÿ
-Ojavascript:S1117¨‚"1'segment' is already declared in the upper scope.(¿şê±
-Njavascript:S1117¾‰"0'module' is already declared in the upper scope.(¼ÚŠÙ
-Njavascript:S1117Ë‰"0'module' is already declared in the upper scope.(áÏ’”
-Njavascript:S1117à‰"0'module' is already declared in the upper scope.(Ş×Éğ
-Sjavascript:S1117Š"0'module' is already declared in the upper scope.(È‰É÷şÿÿÿÿ
-^javascript:S1481Õ‹";Remove the declaration of the unused 'Constraint' variable.(Øû±×şÿÿÿÿ
-[javascript:S1854Õ‹"8Remove this useless assignment to variable "Constraint".(Øû±×şÿÿÿÿ
-^javascript:S2589Í"@This always evaluates to truthy. Consider refactoring this code.(ÙÚ‘¦
-cjavascript:S905˜–"FExpected an assignment or function call and instead saw an expression.(ñ¶Âå
-hjavascript:S905¢–"FExpected an assignment or function call and instead saw an expression.(¯µ§Áıÿÿÿÿ
-^javascript:S2589 ­"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589¥­"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589¸¯"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-^javascript:S2589½¯"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-Ijavascript:S1117öÉ"+'x' is already declared in the upper scope.(ú‡‡è
-Ijavascript:S1117öÉ"+'y' is already declared in the upper scope.(ú‡‡è
-5javascript:S2814ĞÏ"'i' is already defined.(õ§•Ü
-5javascript:S2814¬Ğ"'k' is already defined.(ñå®à
-4javascript:S2814±Ğ"'k' is already defined.(£ºÖB
-;javascript:S2814ŠÑ"'cutEdge' is already defined.(²ÎªÇ
-5javascript:S2814‹Ñ"'i' is already defined.(—Ëğ™
-5javascript:S2814ŒÑ"'j' is already defined.(¡Á—
-5javascript:S2814²Ò"'j' is already defined.(º‘©ñ
-hjavascript:S905óÜ"FExpected an assignment or function call and instead saw an expression.(…„ıÛÿÿÿÿÿ
-^javascript:S2589òì"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
-bjavascript:S2589÷ì"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
-3javascript:S108øì"Empty block statement.(Äé†ˆ
-bjavascript:S2589úì"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
-3javascript:S108ûì"Empty block statement.(Äé†ˆ
-hjavascript:S905Øƒ"FExpected an assignment or function call and instead saw an expression.(ƒ¸æ¿øÿÿÿÿ
-cjavascript:S905æƒ"FExpected an assignment or function call and instead saw an expression.(Å•Ê‘
-cjavascript:S905ğƒ"FExpected an assignment or function call and instead saw an expression.(Öğ¢×
-_javascript:S2259©d"BTypeError can be thrown as "tail" might be null or undefined here.(ßœÕà
-ojavascript:S2259ê€"LTypeError can be thrown as "animationFrame" might be null or undefined here.(¼®æüÿÿÿÿ
-ijavascript:S2259¡…"FTypeError can be thrown as "renderer" might be null or undefined here.(‚„ö˜ûÿÿÿÿ
-bjavascript:S2259á“"DTypeError can be thrown as "normal" might be null or undefined here.(¤°Œ
-djavascript:S2259õğ"FTypeError can be thrown as "newScene" might be null or undefined here.(¨±¯ú
-ijavascript:S2259–ò"FTypeError can be thrown as "newScene" might be null or undefined here.(°”•Šúÿÿÿÿ
-cjavascript:S2259ïÆ"ETypeError can be thrown as "vertexA" might be null or undefined here.(ÀÌª
-hjavascript:S2259ã‚"ETypeError can be thrown as "segment" might be null or undefined here.(œº¯…üÿÿÿÿ
-bjavascript:S2259’Š"DTypeError can be thrown as "plugin" might be null or undefined here.(Ö³Š¯
-_javascript:S2259ôë"ATypeError can be thrown as "end" might be null or undefined here.(Ûñ‰
-„javascript:S4165¹˜"fReview this useless assignment: "rotation" already holds the assigned value along all execution paths.(¯íû¯
-ƒjavascript:S4165¿˜"eReview this useless assignment: "flipped" already holds the assigned value along all execution paths.(ëßÙ
-ƒjavascript:S4165Î˜"eReview this useless assignment: "flipped" already holds the assigned value along all execution paths.(ëßÙ
-ƒjavascript:S4165µ˜"eReview this useless assignment: "flipped" already holds the assigned value along all execution paths.(ëßÙ
-ƒjavascript:S4165°˜"eReview this useless assignment: "flipped" already holds the assigned value along all execution paths.(ëßÙ
-„javascript:S4165Í˜"fReview this useless assignment: "rotation" already holds the assigned value along all execution paths.(¯íû¯
-‚javascript:S4165ªÆ"_Review this useless assignment: "i" already holds the assigned value along all execution paths.(ìÈ¸´üÿÿÿÿ
-‚javascript:S4165Ç"_Review this useless assignment: "i" already holds the assigned value along all execution paths.(ìÈ¸´üÿÿÿÿ
-}javascript:S4165ØÏ"_Review this useless assignment: "i" already holds the assigned value along all execution paths.(¡¿æÄ
-†javascript:S4165šï"cReview this useless assignment: "light" already holds the assigned value along all execution paths.(¾µÅ—úÿÿÿÿ
-}javascript:S4165îº"_Review this useless assignment: "a" already holds the assigned value along all execution paths.(Šˆê
-}javascript:S4165îº"_Review this useless assignment: "b" already holds the assigned value along all execution paths.(Šˆê
-‚javascript:S4165¢¿	"_Review this useless assignment: "y" already holds the assigned value along all execution paths.(éèí‡ÿÿÿÿÿ
+Ojavascript:S1117Ğé"2'renderer' is already declared in the upper scope.(Ä‰v
+cjavascript:S905¹„"FExpected an assignment or function call and instead saw an expression.(¹Äø‚
+^javascript:S2589ëÕ"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+cjavascript:S905¨”"FExpected an assignment or function call and instead saw an expression.(¤‡˜º
+Sjavascript:S1117óÑ"0'height' is already declared in the upper scope.(‚¡‰¼ûÿÿÿÿ
+hjavascript:S905öœ"FExpected an assignment or function call and instead saw an expression.(ìêÑ³úÿÿÿÿ
+Rjavascript:S1854ú"/Remove this useless assignment to variable "v".(“ûÁ¬şÿÿÿÿ
+cjavascript:S905å‹
+"FExpected an assignment or function call and instead saw an expression.(Î¤í
+cjavascript:S905’Ò"FExpected an assignment or function call and instead saw an expression.(¦ñÑÔ
+^javascript:S2589±«	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+bjavascript:S2589ç×"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
+^javascript:S2589÷Ê	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+Ojavascript:S1117õÑ",'gl' is already declared in the upper scope.(–”·Èüÿÿÿÿ
+bjavascript:S905í°	"FExpected an assignment or function call and instead saw an expression.(öô?
+hjavascript:S905Ş‚"FExpected an assignment or function call and instead saw an expression.(Ó¡ª±şÿÿÿÿ
+hjavascript:S905êü"FExpected an assignment or function call and instead saw an expression.( æô‚øÿÿÿÿ
+bjavascript:S2589ë"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
+hjavascript:S905"FExpected an assignment or function call and instead saw an expression.( æô‚øÿÿÿÿ
 ‚javascript:S4165åÀ	"_Review this useless assignment: "y" already holds the assigned value along all execution paths.(éèí‡ÿÿÿÿÿ
-Ujavascript:S1534À"2Rename or remove duplicate property name 'toBBox'.(è‘„Ûÿÿÿÿÿ
+hjavascript:S905™ƒ"FExpected an assignment or function call and instead saw an expression.(˜¤Ì—ûÿÿÿÿ
+ijavascript:S2259¡…"FTypeError can be thrown as "renderer" might be null or undefined here.(‚„ö˜ûÿÿÿÿ
+Ojavascript:S1117ğÑ"2'renderer' is already declared in the upper scope.(Ä‰v
+hjavascript:S905óÜ"FExpected an assignment or function call and instead saw an expression.(…„ıÛÿÿÿÿÿ
+hjavascript:S905¾–"FExpected an assignment or function call and instead saw an expression.(…„ıÛÿÿÿÿÿ
+cjavascript:S905®°	"FExpected an assignment or function call and instead saw an expression.(ì™…€
+Xjavascript:S3516™Ÿ";Refactor this function to not always return the same value.(ÍØÿj
+cjavascript:S905Âü"FExpected an assignment or function call and instead saw an expression.(Ü¥Ç 
+Pjavascript:S1854 ˜	"3Remove this useless assignment to variable "scale".(÷Šê%
+hjavascript:S905Ù°	"FExpected an assignment or function call and instead saw an expression.(»ÑÅëÿÿÿÿÿ
+cjavascript:S905™¡"FExpected an assignment or function call and instead saw an expression.(÷ëãÛ
+=javascript:S878ç"!Unexpected use of comma operator.(õŞ€¢
+cjavascript:S905æ¯	"FExpected an assignment or function call and instead saw an expression.(äåàÛ
+cjavascript:S905ï"FExpected an assignment or function call and instead saw an expression.(Äµ’ 
+^javascript:S2589Ôß	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+Fjavascript:S1940¯"(Use the opposite operator (!==) instead.(€„‰”
+hjavascript:S905ÖÔ"FExpected an assignment or function call and instead saw an expression.(’Ó¤ıÿÿÿÿ
+Zjavascript:S1854ìò"7Remove this useless assignment to variable "loadEvent".(éÃå şÿÿÿÿ
+hjavascript:S905Öü"FExpected an assignment or function call and instead saw an expression.(×Ğêøşÿÿÿÿ
+hjavascript:S905§“"FExpected an assignment or function call and instead saw an expression.(ú¾šœÿÿÿÿÿ
+cjavascript:S905½›"FExpected an assignment or function call and instead saw an expression.(âÿ¿º
+hjavascript:S905²œ"FExpected an assignment or function call and instead saw an expression.(´‹Œ­úÿÿÿÿ
+hjavascript:S905Î”"FExpected an assignment or function call and instead saw an expression.(Ù‰×ııÿÿÿÿ
+^javascript:S2589¥­"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+ojavascript:S2259ê€"LTypeError can be thrown as "animationFrame" might be null or undefined here.(¼®æüÿÿÿÿ
+^javascript:S2589»™"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+hjavascript:S905«¯	"FExpected an assignment or function call and instead saw an expression.(Â²êĞşÿÿÿÿ
+hjavascript:S905ã°	"FExpected an assignment or function call and instead saw an expression.(´ä…¯ÿÿÿÿÿ
+hjavascript:S905ÿÔ"FExpected an assignment or function call and instead saw an expression.(™‰äĞüÿÿÿÿ
+cjavascript:S905‚”"FExpected an assignment or function call and instead saw an expression.(ğŠ€Ì
+hjavascript:S905€ş"FExpected an assignment or function call and instead saw an expression.(Ù‚¤üúÿÿÿÿ
+Njavascript:S1117à‰"0'module' is already declared in the upper scope.(Ş×Éğ
+}javascript:S4165îº"_Review this useless assignment: "b" already holds the assigned value along all execution paths.(Šˆê
+bjavascript:S905ëœ"FExpected an assignment or function call and instead saw an expression.(¼–·X
+cjavascript:S2589Á	"@This always evaluates to truthy. Consider refactoring this code.(‚Â©ûÿÿÿÿ
+bjavascript:S905Ş"FExpected an assignment or function call and instead saw an expression.(ûÓ·Å
+^javascript:S2589Ñ–	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+hjavascript:S905ê®"FExpected an assignment or function call and instead saw an expression.(¬¼ß±øÿÿÿÿ
+Rjavascript:S1481ê>"5Remove the declaration of the unused 'args' variable.(¿´¤ˆ
+Hjavascript:S1117·B"+'i' is already declared in the upper scope.(íÁÙá
+Ojavascript:S1854æô"1Remove this useless assignment to variable "key".(ÚáŸ¥
+Pjavascript:S1117ğ "-'key' is already declared in the upper scope.(¡ëÁÉøÿÿÿÿ
+Rjavascript:S1117—‚"/'point' is already declared in the upper scope.(ÄÙ¬ûÿÿÿÿ
+5javascript:S2814‹Ñ"'i' is already defined.(—Ëğ™
+Ljavascript:S1117öÑ".'wrap' is already declared in the upper scope.(İ‹ä«
+Pjavascript:S1117ô‡"-'toX' is already declared in the upper scope.(‹˜³›úÿÿÿÿ
+cjavascript:S905ù"FExpected an assignment or function call and instead saw an expression.(ñ¶Âå
+cjavascript:S905Ñ"FExpected an assignment or function call and instead saw an expression.(ô¾¬ó
+hjavascript:S905„"FExpected an assignment or function call and instead saw an expression.(½ÄïĞûÿÿÿÿ
+Mjavascript:S1117™ˆ"/'value' is already declared in the upper scope.(ş­ĞÉ
+^javascript:S2589™¾	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+hjavascript:S905í›"FExpected an assignment or function call and instead saw an expression.(¯µ§Áıÿÿÿÿ
+5javascript:S2814ĞÏ"'i' is already defined.(õ§•Ü
+hjavascript:S905¦ı"FExpected an assignment or function call and instead saw an expression.(½ÄïĞûÿÿÿÿ
+hjavascript:S905”œ"FExpected an assignment or function call and instead saw an expression.(à×³®ûÿÿÿÿ
+^javascript:S2589†á	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+cjavascript:S905ú¡	"FExpected an assignment or function call and instead saw an expression.(âÿ¿º
+hjavascript:S905ºı"FExpected an assignment or function call and instead saw an expression.(ü£ˆùÿÿÿÿ
+^javascript:S2589Ş¹	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+cjavascript:S905Œ"FExpected an assignment or function call and instead saw an expression.(±é¤…
+^javascript:S2589üÊ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+ijavascript:S2259–ò"FTypeError can be thrown as "newScene" might be null or undefined here.(°”•Šúÿÿÿÿ
+Rjavascript:S1117òÑ"/'width' is already declared in the upper scope.(¯˜ßÁøÿÿÿÿ
 Zjavascript:S1534…À"7Rename or remove duplicate property name 'compareMinX'.(«ä×åüÿÿÿÿ
-Zjavascript:S1534ŠÀ"7Rename or remove duplicate property name 'compareMinY'.(€š¹®ûÿÿÿÿ
+cjavascript:S905ˆı"FExpected an assignment or function call and instead saw an expression.(û™Æı
+cjavascript:S905¾¯	"FExpected an assignment or function call and instead saw an expression.(²õô
+cjavascript:S905Ï°	"FExpected an assignment or function call and instead saw an expression.(ÌÓ›³
+cjavascript:S905Å”"FExpected an assignment or function call and instead saw an expression.(Çİ°‡
+3javascript:S108Ğ™"Empty block statement.(Äé†ˆ
+bjavascript:S2589Šë"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
+Vjavascript:S1854Üï"3Remove this useless assignment to variable "total".(§üÃÛøÿÿÿÿ
+^javascript:S2589å¥	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+hjavascript:S905ù“"FExpected an assignment or function call and instead saw an expression.(¹Ñ³şÿÿÿÿ
+Pjavascript:S1117â›"-'key' is already declared in the upper scope.(Ì«Èóüÿÿÿÿ
+bjavascript:S2589Ş™"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
+ijavascript:S1481ñÕ"KRemove the declaration of the unused 'FacebookInstantGamesPlugin' variable.(•øÊÅ
+^javascript:S2589şÃ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+^javascript:S2589Á”	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+Rjavascript:S1854ì"4Remove this useless assignment to variable "Bounds".(¹•ê²
+hjavascript:S905¥¡"FExpected an assignment or function call and instead saw an expression.(´”Äùÿÿÿÿ
+^javascript:S2589ùÃ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+cjavascript:S905˜°	"FExpected an assignment or function call and instead saw an expression.(ì‰£
+bjavascript:S2589Ì™"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
+sjavascript:S1871ˆ™
+"PThis branch's code block is the same as the block for the branch on line 167043.(ÒÌâ–øÿÿÿÿ
+cjavascript:S905Ÿ”"FExpected an assignment or function call and instead saw an expression.(«µü
+hjavascript:S905† "FExpected an assignment or function call and instead saw an expression.(˜¤Ì—ûÿÿÿÿ
+Ijavascript:S1117öÉ"+'y' is already declared in the upper scope.(ú‡‡è
+Pjavascript:S1117¨S".'body' is already declared in the upper scope.(ö»ëæÿÿÿÿÿ
+Ujavascript:S1481é·"2Remove the declaration of the unused 'j' variable.(é¶±øÿÿÿÿ
+cjavascript:S905²”"FExpected an assignment or function call and instead saw an expression.(Ø™‰†
+cjavascript:S905°ı"FExpected an assignment or function call and instead saw an expression.(óÑôª
+cjavascript:S905»œ"FExpected an assignment or function call and instead saw an expression.(Ú§™ú
+cjavascript:S905°	"FExpected an assignment or function call and instead saw an expression.(¦ê¾Ä
+^javascript:S2589Ê×"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+3javascript:S108ûì"Empty block statement.(Äé†ˆ
+hjavascript:S905ƒŸ"FExpected an assignment or function call and instead saw an expression.(¯µ§Áıÿÿÿÿ
+bjavascript:S905áÔ"FExpected an assignment or function call and instead saw an expression.(´ÒV
+hjavascript:S905ğÔ"FExpected an assignment or function call and instead saw an expression.(Š¬ÿşÿÿÿÿ
+^javascript:S2589ªÒ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+cjavascript:S905Û"FExpected an assignment or function call and instead saw an expression.(âÿ¿º
+gjavascript:S905è!"FExpected an assignment or function call and instead saw an expression.(ÑÃıÿÿÿÿ
+Fjavascript:S1940ùÁ"(Use the opposite operator (!==) instead.(€„‰”
+Njavascript:S1117ï"+'g' is already declared in the upper scope.(†Ì°Ïÿÿÿÿÿ
+Bjavascript:S878ì"!Unexpected use of comma operator.(ü†¢úÿÿÿÿ
+=javascript:S878ê"!Unexpected use of comma operator.(„ôË
+†javascript:S4165šï"cReview this useless assignment: "light" already holds the assigned value along all execution paths.(¾µÅ—úÿÿÿÿ
+^javascript:S2589 ­"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+cjavascript:S905Ÿ‹
+"FExpected an assignment or function call and instead saw an expression.(¦ñÑÔ
+cjavascript:S905Û‹
+"FExpected an assignment or function call and instead saw an expression.(¢€Ä
+bjavascript:S2589÷ì"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
+ƒjavascript:S4165¿˜"eReview this useless assignment: "flipped" already holds the assigned value along all execution paths.(ëßÙ
+^javascript:S2589¸¯"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+cjavascript:S905öı"FExpected an assignment or function call and instead saw an expression.(ˆú€Ä
+^javascript:S2589¹Ì	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+bjavascript:S905è"FExpected an assignment or function call and instead saw an expression.(Äµ’ 
+Wjavascript:S1854¦Ú"4Remove this useless assignment to variable "colors".(×´à—øÿÿÿÿ
+^javascript:S2589òì"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+^javascript:S2589Ö–	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+3javascript:S108Í™"Empty block statement.(Äé†ˆ
+bjavascript:S905¼”"FExpected an assignment or function call and instead saw an expression.(À¼w
+^javascript:S2589ªâ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+8javascript:S108Íà"Empty block statement.(·©µãÿÿÿÿÿ
+bjavascript:S2589á™"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
+Vjavascript:S1854Â‰"9Remove this useless assignment to variable "determinant".(®¬â~
+hjavascript:S905ğ“"FExpected an assignment or function call and instead saw an expression.(½æùûÿÿÿÿ
+cjavascript:S905‹œ"FExpected an assignment or function call and instead saw an expression.(Ü¥Ç 
+cjavascript:S905Ë"FExpected an assignment or function call and instead saw an expression.(ñ¶Âå
+>javascript:S1439¾Ö
+"Remove this "resize" label.(¼ÉŞéÿÿÿÿÿ
+^javascript:S2589»Æ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+^javascript:S2589ù·	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+hjavascript:S905³¸"FExpected an assignment or function call and instead saw an expression.(´‹Œ­úÿÿÿÿ
+hjavascript:S905Õ"FExpected an assignment or function call and instead saw an expression.(¯µ§Áıÿÿÿÿ
+Njavascript:S1117Õ¬"+'e' is already declared in the upper scope.(ùºŸ­şÿÿÿÿ
+hjavascript:S905Â"FExpected an assignment or function call and instead saw an expression.(ß¹Óùÿÿÿÿ
+ƒjavascript:S4165°˜"eReview this useless assignment: "flipped" already holds the assigned value along all execution paths.(ëßÙ
+3javascript:S108—œ"Empty block statement.(Äé†ˆ
+hjavascript:S905Ò¯	"FExpected an assignment or function call and instead saw an expression.(‚¡¶Ÿúÿÿÿÿ
+Ujavascript:S1481ì"7Remove the declaration of the unused 'Bounds' variable.(¹•ê²
+Yjavascript:S3516—œ";Refactor this function to not always return the same value.(îà°ğ
+cjavascript:S905Èœ"FExpected an assignment or function call and instead saw an expression.(ÿĞ©
+`javascript:S1117Ü°"='TextureTintPipeline' is already declared in the upper scope.(ßú¶¬ÿÿÿÿÿ
+cjavascript:S2259ïÆ"ETypeError can be thrown as "vertexA" might be null or undefined here.(ÀÌª
+Njavascript:S1117I"-'key' is already declared in the upper scope.(ÇÜ¿øÿÿÿÿ
+Ojavascript:S1117¨‚"1'segment' is already declared in the upper scope.(¿şê±
+Cjavascript:S1110º""!Remove these useless parentheses.(ô‚³‰ÿÿÿÿÿ
+`javascript:S1117ÿ¯"='TextureTintPipeline' is already declared in the upper scope.(ßú¶¬ÿÿÿÿÿ
+3javascript:S108ë"Empty block statement.(Äé†ˆ
+hjavascript:S905ğ¯	"FExpected an assignment or function call and instead saw an expression.(¢âÛàıÿÿÿÿ
+cjavascript:S905˜–"FExpected an assignment or function call and instead saw an expression.(ñ¶Âå
+cjavascript:S905™ş"FExpected an assignment or function call and instead saw an expression.(ñ„¬–
+hjavascript:S905³Ş"FExpected an assignment or function call and instead saw an expression.(ÅïÃûÿÿÿÿ
+Kjavascript:S1117õ‡"-'toY' is already declared in the upper scope.(¤¨ñÆ
+^javascript:S2589Ùß	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+^javascript:S2589ò¸	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+^javascript:S2589×Á	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+^javascript:S2589 ø"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+Njavascript:S1117Ë‰"0'module' is already declared in the upper scope.(áÏ’”
+cjavascript:S905›"FExpected an assignment or function call and instead saw an expression.(Å•Ê‘
+;javascript:S2814ŠÑ"'cutEdge' is already defined.(²ÎªÇ
+hjavascript:S905„°	"FExpected an assignment or function call and instead saw an expression.(ñâ™ùÿÿÿÿ
 ;javascript:S1736ã¥
 "Remove this unreachable code.(”·³›
+hjavascript:S905¢ƒ"FExpected an assignment or function call and instead saw an expression.(ŸØ—àùÿÿÿÿ
+^javascript:S2589·É	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+Sjavascript:S1117÷Ñ"0'filter' is already declared in the upper scope.(ßØ¹Âøÿÿÿÿ
+^javascript:S2589ÀÆ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+^javascript:S2589ï	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+^javascript:S2589Î¿	"@This always evaluates to truthy. Consider refactoring this code.(éó¦â
+cjavascript:S905÷°	"FExpected an assignment or function call and instead saw an expression.(ˆì‚
+bjavascript:S2589úì"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
+Kjavascript:S1117ş "-'key' is already declared in the upper scope.(‘Æó
+^javascript:S2589Ü¼	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+ƒjavascript:S4165µ˜"eReview this useless assignment: "flipped" already holds the assigned value along all execution paths.(ëßÙ
+[javascript:S1854Õ‹"8Remove this useless assignment to variable "Constraint".(Øû±×şÿÿÿÿ
+Njavascript:S1117¾‰"0'module' is already declared in the upper scope.(¼ÚŠÙ
+Rjavascript:S1117ƒà"/'tween' is already declared in the upper scope.(–ãù¯üÿÿÿÿ
+^javascript:S2589— 	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+Ljavascript:S1854Ó²	"/Remove this useless assignment to variable "i".(’¨â
+^javascript:S2589½›	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+hjavascript:S905ìı"FExpected an assignment or function call and instead saw an expression.(¤äÊÜÿÿÿÿÿ
+^javascript:S2589Êà"@This always evaluates to truthy. Consider refactoring this code.(Ç¿½ú
+^javascript:S2589™—	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+^javascript:S2589÷¸	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+3javascript:S108â™"Empty block statement.(Äé†ˆ
+]javascript:S1854÷²":Remove this useless assignment to variable "vertexOffset".(¯ÃÃœûÿÿÿÿ
+Jjavascript:S1117ôÑ"-'pot' is already declared in the upper scope.(Éí’.
+cjavascript:S905†ˆ"FExpected an assignment or function call and instead saw an expression.(ñ¶Âå
+^javascript:S2589œ 	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+cjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(âÿ¿º
+hjavascript:S905˜¯	"FExpected an assignment or function call and instead saw an expression.(œÌ¾‚şÿÿÿÿ
+=javascript:S878ë"!Unexpected use of comma operator.(øÅä×
+Njavascript:S1117ï"+'b' is already declared in the upper scope.(†Ì°Ïÿÿÿÿÿ
+^javascript:S2589¶«	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+^javascript:S2589Í"@This always evaluates to truthy. Consider refactoring this code.(ÙÚ‘¦
+^javascript:S2589‰ã	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+^javascript:S1481Õ‹";Remove the declaration of the unused 'Constraint' variable.(Øû±×şÿÿÿÿ
+hjavascript:S905Äı"FExpected an assignment or function call and instead saw an expression.(ˆÉÀÇøÿÿÿÿ
+„javascript:S4165¹˜"fReview this useless assignment: "rotation" already holds the assigned value along all execution paths.(¯íû¯
+^javascript:S2589—	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+3javascript:S108è×"Empty block statement.(Äé†ˆ
+hjavascript:S905¥È"FExpected an assignment or function call and instead saw an expression.(¢ºæ†øÿÿÿÿ
+hjavascript:S2259ã‚"ETypeError can be thrown as "segment" might be null or undefined here.(œº¯…üÿÿÿÿ
+Ujavascript:S1534À"2Rename or remove duplicate property name 'toBBox'.(è‘„Ûÿÿÿÿÿ
+^javascript:S2589Ê­	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+cjavascript:S905¨"FExpected an assignment or function call and instead saw an expression.(û™Æı
+hjavascript:S905ûŠ"FExpected an assignment or function call and instead saw an expression.(¯µ§Áıÿÿÿÿ
+cjavascript:S2589Õ¿	"@This always evaluates to truthy. Consider refactoring this code.(‚Â©ûÿÿÿÿ
+hjavascript:S905Ü‰"FExpected an assignment or function call and instead saw an expression.(“öºûûÿÿÿÿ
+^javascript:S2589©‹	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+hjavascript:S905ƒ"FExpected an assignment or function call and instead saw an expression.(¯¶¸ûÿÿÿÿ
+hjavascript:S905Å°	"FExpected an assignment or function call and instead saw an expression.(êËõÛúÿÿÿÿ
+}javascript:S4165ØÏ"_Review this useless assignment: "i" already holds the assigned value along all execution paths.(¡¿æÄ
+^javascript:S2589ô·	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+cjavascript:S905ã›"FExpected an assignment or function call and instead saw an expression.(ñ¶Âå
+Njavascript:S1117ï"+'r' is already declared in the upper scope.(†Ì°Ïÿÿÿÿÿ
+cjavascript:S905’ı"FExpected an assignment or function call and instead saw an expression.(Å•Ê‘
+„javascript:S4165Í˜"fReview this useless assignment: "rotation" already holds the assigned value along all execution paths.(¯íû¯
+cjavascript:S905Îı"FExpected an assignment or function call and instead saw an expression.(ãÍƒ
+^javascript:S2589¶Ÿ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+_javascript:S2259©d"BTypeError can be thrown as "tail" might be null or undefined here.(ßœÕà
+hjavascript:S905‚İ"FExpected an assignment or function call and instead saw an expression.(´‹Œ­úÿÿÿÿ
+cjavascript:S905ú¯	"FExpected an assignment or function call and instead saw an expression.(’”¥Í
+Vjavascript:S1854Á²	"8Remove this useless assignment to variable "fontFamily".(¹Áøš
+^javascript:S2589¯œ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+cjavascript:S905÷ê
+"FExpected an assignment or function call and instead saw an expression.(Å•Ê‘
+‚javascript:S4165ªÆ"_Review this useless assignment: "i" already holds the assigned value along all execution paths.(ìÈ¸´üÿÿÿÿ
+hjavascript:S905Øı"FExpected an assignment or function call and instead saw an expression.(Ä“Ôÿÿÿÿÿ
+Pjavascript:S1117À›"-'key' is already declared in the upper scope.(”åäšûÿÿÿÿ
+^javascript:S2589Ù¹	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+^javascript:S2589×¼	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+Mjavascript:S1117ñ‡"/'value' is already declared in the upper scope.(ªğšğ
+Kjavascript:S1117½›"-'key' is already declared in the upper scope.(ÚÆæÄ
+hjavascript:S905Ôœ"FExpected an assignment or function call and instead saw an expression.(×Ğêøşÿÿÿÿ
+3javascript:S108ƒş"Empty block statement.(Äé†ˆ
+5javascript:S2814»Ê"'i' is already defined.(Ó­œ½
+Pjavascript:S1117÷›"-'key' is already declared in the upper scope.(Ì«Èóüÿÿÿÿ
+^javascript:S2589»Ÿ	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+5javascript:S2814²Ò"'j' is already defined.(º‘©ñ
+‚javascript:S4165¢¿	"_Review this useless assignment: "y" already holds the assigned value along all execution paths.(éèí‡ÿÿÿÿÿ
+bjavascript:S2589–œ"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
+hjavascript:S905ˆ"FExpected an assignment or function call and instead saw an expression.(¯µ§Áıÿÿÿÿ
+gjavascript:S905İ!"FExpected an assignment or function call and instead saw an expression.(÷ª¤Ôşÿÿÿÿ
+hjavascript:S905šÈ"FExpected an assignment or function call and instead saw an expression.(ØÄÛşÿÿÿÿ
+‚javascript:S4165Ç"_Review this useless assignment: "i" already holds the assigned value along all execution paths.(ìÈ¸´üÿÿÿÿ
+^javascript:S2589½¯"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+^javascript:S2589¾	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+5javascript:S2814ŒÑ"'j' is already defined.(¡Á—
+bjavascript:S2589‚ş"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
+cjavascript:S905Ìü"FExpected an assignment or function call and instead saw an expression.(ÿĞ©
+bjavascript:S905Ó
+"FExpected an assignment or function call and instead saw an expression.(Äµ’ 
+^javascript:S2589‹á	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+bjavascript:S2589Ï™"?This always evaluates to falsy. Consider refactoring this code.(òıÀıÿÿÿÿ
+bjavascript:S2259’Š"DTypeError can be thrown as "plugin" might be null or undefined here.(Ö³Š¯
+^javascript:S2589®‹	"@This always evaluates to truthy. Consider refactoring this code.(è¦È„
+}javascript:S4165îº"_Review this useless assignment: "a" already holds the assigned value along all execution paths.(Šˆê
+hjavascript:S905œ™"FExpected an assignment or function call and instead saw an expression.(¯µ§Áıÿÿÿÿ
+cjavascript:S905®Ä"FExpected an assignment or function call and instead saw an expression.(¦ñÑÔ
